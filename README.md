@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somflai
-- 👀 I’m interested in analytics unsinf python,sql, adobe analytics
+- 👀 I’m interested in analytics unsing python,sql, adobe analytics
 - 🌱 I’m currently in MS Data Science and Analytics at Georgia State University
 - 📫 How to reach me someshyadav31@gmail.com
 
