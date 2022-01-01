@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somflai
-- 👀 I’m interested in analytics using Python
-- 🌱 I’m currently learning Data analytics and Quantitative Risk analysis and management
+- 👀 I’m interested in analytics unsinf python,sql, adobe analytics
+- 🌱 I’m currently in MS Data Science and Analytics at Georgia State University
 - 📫 How to reach me someshyadav31@gmail.com
 
 <!---
